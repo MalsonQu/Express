@@ -8,5 +8,7 @@
             "email": "quqingyu@live.cn"
         }
     ],
-    "require": {}
+    "require": {
+        "php":">=5.4"
+    }
 }
